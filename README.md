@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CleberValadares
 - 👀 I’m interested in Linux, DevOps, Cloud, Python, Data Science
-- :sunglasses: Certifications: LPI 101, AZ-900
+- :sunglasses: Certifications: LPIC-01, AZ-900
 - 🌱 I’m currently learning Ansible and Python
-- 📫 Follow me @cleber__v
+- 
 
 
 <!---
